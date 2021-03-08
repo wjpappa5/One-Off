@@ -1,2 +1,0 @@
-gkey = 'AIzaSyA9fLpkvRyvN54s2kVd3my1plwzWHEtutU'
-mbox = 'pk.eyJ1IjoiYnBhcHBhcyIsImEiOiJja2w4YzZubDEyM3RlMndxamgzdjhzdHFrIn0.GoDtJAEoxMquG0hFUheOKw'
